@@ -24,4 +24,4 @@ If your file placed on private folder you need to add a static token to it. **It
 
 # Demo
 
-![demo](./screenshots/document_preview_demo_short.gif)
+![demo](./screenshot/document_preview_demo_short.gif)
