@@ -6,6 +6,10 @@ This extension created to enable document preview on file interface.
 
 # How to install
 
+```sh
+npm i directus-extension-document-interface
+```
+
 https://docs.directus.io/extensions/installing-extensions.html
 
 # How to use it
